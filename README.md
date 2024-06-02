@@ -26,6 +26,9 @@ Setup:
 2. Navigate to the project directory.
 3. Install the required dependencies: `pip install -r requirements.txt`
 
+Steps:
+1. 
+
 Instructions for Contribution:
 - Fork the repository.
 - Make desired changes and improvements.
