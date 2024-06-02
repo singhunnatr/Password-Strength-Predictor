@@ -26,8 +26,16 @@ Setup:
 2. Navigate to the project directory.
 3. Install the required dependencies: `pip install -r requirements.txt`
 
-Steps:
-1. 
+Steps for Linux:
+1. Enter sudo
+2. git clone https://github.com/singhunnatr/Password-Strength-Predictor.git
+3. cd Password-Strength-Predictor
+4. pip3 install scikit-learn
+5. pip3 install matplotlib
+6. pip3 install joblib
+7. python Training.py
+8. python Password_Strength_Predictor.py
+
 
 Instructions for Contribution:
 - Fork the repository.
