@@ -22,7 +22,7 @@ File Structure:
 - `README.md`: Documentation file containing instructions and information about the project.
 
 Setup:
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `https://github.com/singhunnatr/Password-Strength-Predictor.git`
 2. Navigate to the project directory.
 3. Install the required dependencies: `pip install -r requirements.txt`
 
